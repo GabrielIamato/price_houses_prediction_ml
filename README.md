@@ -40,7 +40,8 @@ Este projeto tem como objetivo desenvolver um modelo de previsão de preços a p
    ```bash
    pip install -r requirements.txt
    ```
-3. Execute o notebook principal no Jupyter Notebook.
+3. Baixe o modelo "RandomForestRegressor.pkl" da pasta " https://drive.google.com/drive/u/2/folders/1h2_tPKczunrh-DnaGiToX1ddmXj2CWF7 " e adicione-o à pasta "modelos_machine_learning". Pelo limite de 100.0 MB por arquivo, o modelo de Random Forest foi armazenado em uma pasta pública do Google Drive.
+4. Execute o notebook principal no Jupyter Notebook.
 
 ## 📈 Tecnologias Utilizadas
 
