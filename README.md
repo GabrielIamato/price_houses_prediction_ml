@@ -1,4 +1,4 @@
-# Indicium - Previsão de Preços de Imóveis
+# Previsão de Preços de Imóveis
 
 Este projeto tem como objetivo desenvolver um modelo de previsão de preços a partir de um dataset de imóveis, analisando fatores que influenciam o valor de locação.
 
@@ -9,7 +9,7 @@ Este projeto tem como objetivo desenvolver um modelo de previsão de preços a p
 - **Principais Técnicas Utilizadas:**  
   - Análise Exploratória de Dados (EDA)
   - Engenharia de Atributos (Feature Engineering)
-  - Modelos de Regressão (Linear, Random Forest, Gradient Boosting, SVR)
+  - Modelos de Regressão (Linear, Random Forest, Gradient Boosting, SVR, entre outros)
   - Avaliação Estatística e Visualização de Dados
     
 ## 🛠️ Estrutura do Repositório
@@ -27,8 +27,9 @@ Este projeto tem como objetivo desenvolver um modelo de previsão de preços a p
 
 - Identificação de variáveis relevantes para a previsão de preços.
 - Avaliação do impacto da localização e disponibilidade do imóvel no preço.
+- Identificação de áreas de maiores preços e interesses.
 - Comparação de diferentes modelos de regressão para determinar o mais eficiente.
-
+- Previsão de preços dos imóveis.
 
 ## 🤷‍♂️ Como Usar
 
@@ -50,9 +51,8 @@ Este projeto tem como objetivo desenvolver um modelo de previsão de preços a p
   - `pandas`, `numpy` (manipulação de dados)  
   - `matplotlib`, `seaborn`, `folium` (visualização de dados)  
   - `scipy.stats`, `statsmodels` (testes estatísticos)  
-  - `sklearn` (treinamento e avaliação de modelos)  
-
+  - `sklearn` (treinamento e avaliação de modelos)
 
 ## 📄 Licença
 
-Licença a ser definida.
+O projeto está licenciado sobre a GNU General Public License v3.0, publicada pela Free Software Foundation.
